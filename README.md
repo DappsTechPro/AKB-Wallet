@@ -1,3 +1,1 @@
-# AKB-Wallet
-AKB Wallet
 
